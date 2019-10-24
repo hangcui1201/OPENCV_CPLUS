@@ -3,3 +3,5 @@
 ### opencv_basic
 
 ### opencv_window
+
+### histogram_demo
